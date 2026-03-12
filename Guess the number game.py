@@ -1,5 +1,6 @@
 import random
 import time as t
+ 
 
 def dot_time():
     for i in range(3):
